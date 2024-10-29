@@ -5,7 +5,7 @@ O objetivo deste projeto foi criar um relatório mais elaborado com base na samp
 ## Funcionalidades
 
 - Relatório para visualização sobre dados de Vendas (total de vendas, lucro, quantidade vendida, etc).
-- Implementação de botões navegação entre páginas.
+- Implementação de botões para navegação entre páginas.
 - Implementação de botões para seleção de diferentes visuais sobre um mesmo assunto.
 - Esse relatório é parte do material de avaliação do bootcamp.
 
